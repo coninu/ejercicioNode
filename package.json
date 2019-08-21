@@ -1,0 +1,17 @@
+{
+  "name": "ejercicionode",
+  "version": "1.0.0",
+  "description": "ejercicio de node",
+  "main": "index.js",
+  "scripts": {
+    "coni": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
